@@ -1,0 +1,1 @@
+Since we are using standard Python libraries (like sqlite3, json, base64) for most features, you only need to install Streamlit (for the web app) and FPDF (for generating the PDF tickets and receipts).
