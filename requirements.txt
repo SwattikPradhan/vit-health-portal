@@ -1,1 +1,1 @@
-Since we are using standard python libraries (like sqlite3, json, base64) for most features, you only need to install streamlit (for the web app) and fpdf (for generating the PDF tickets and receipts).
+Since we are using standard python, you only need to install streamlit (for the web app) and install fpdf (for generating the PDF tickets and receipts).
